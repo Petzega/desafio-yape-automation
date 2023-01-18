@@ -1,6 +1,5 @@
 package mobile.elements;
 
-import com.aventstack.extentreports.App;
 import io.appium.java_client.AppiumBy;
 import org.openqa.selenium.By;
 
